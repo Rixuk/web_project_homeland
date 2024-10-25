@@ -1,0 +1,20 @@
+.header {
+  margin: 0 auto 0;
+  max-width: 254px;
+  max-height: 69px;
+  padding: 34px 0 91px;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  gap: 22px;
+}
+.header__icon {
+  width: 32px;
+  height: 32px;
+  margin: 0;
+}
+.header__title {
+  margin: 0;
+  color: #fff;
+  font-size: 12px;
+}
