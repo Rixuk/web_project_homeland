@@ -20,6 +20,7 @@
   .intro {
     max-width: 720px;
     padding: 0;
+    padding-bottom: 64px;
     margin: 0 auto 0;
   }
   .intro__title {
@@ -30,6 +31,7 @@
 @media screen and (max-width: 544px) {
   .intro {
     max-width: 288px;
+    padding-bottom: 38px;
   }
   .intro__title {
     font-size: 32px;
